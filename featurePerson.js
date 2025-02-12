@@ -20,7 +20,6 @@ function isPrime(num){
     return true ;
 
 }
-
-
+console.log("hello ") ;
 
 
